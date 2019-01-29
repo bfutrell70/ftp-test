@@ -1,0 +1,11 @@
+/home/brian/source/repos/ftp-test/bin/Debug/netcoreapp2.2/ftp-test.deps.json
+/home/brian/source/repos/ftp-test/bin/Debug/netcoreapp2.2/ftp-test.runtimeconfig.json
+/home/brian/source/repos/ftp-test/bin/Debug/netcoreapp2.2/ftp-test.runtimeconfig.dev.json
+/home/brian/source/repos/ftp-test/bin/Debug/netcoreapp2.2/ftp-test.dll
+/home/brian/source/repos/ftp-test/bin/Debug/netcoreapp2.2/ftp-test.pdb
+/home/brian/source/repos/ftp-test/obj/Debug/netcoreapp2.2/ftp-test.csprojAssemblyReference.cache
+/home/brian/source/repos/ftp-test/obj/Debug/netcoreapp2.2/ftp-test.csproj.CoreCompileInputs.cache
+/home/brian/source/repos/ftp-test/obj/Debug/netcoreapp2.2/ftp-test.AssemblyInfoInputs.cache
+/home/brian/source/repos/ftp-test/obj/Debug/netcoreapp2.2/ftp-test.AssemblyInfo.cs
+/home/brian/source/repos/ftp-test/obj/Debug/netcoreapp2.2/ftp-test.dll
+/home/brian/source/repos/ftp-test/obj/Debug/netcoreapp2.2/ftp-test.pdb
